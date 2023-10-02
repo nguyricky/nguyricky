@@ -1,2 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ricky Nguyen</h1>
-<h3 align="center">Currently, I'm an Undergraduate CS Student & IT Technician at Oregon State University</h3>
+<p align="center">
+  <a href="https://rickynguyen.dev">
+    <img src="https://rickynguyen.dev/banner.svg" width="750" height="250">
+  </a>
+</p>
